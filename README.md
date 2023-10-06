@@ -5,3 +5,5 @@ project:test version control
 college:anmk
 course:mca
 +affiliated by jntua approved by aicte ugc
+this is anmk
+updated on 6/10/23
